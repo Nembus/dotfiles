@@ -1,0 +1,20 @@
+{
+    "editor.fontSize": 15,
+    "window.zoomLevel": 0,
+    "terminal.integrated.fontSize": 15,
+    "explorer.confirmDragAndDrop": false,
+    "flow.useNPMPackagedFlow": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "javascript.validate.enable": false,
+    "editor.multiCursorModifier": "alt",
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "workbench.editor.showTabs": true,
+    "editor.tabCompletion": true,
+    "explorer.openEditors.visible": 0,
+    "eslint.packageManager": "yarn",
+    "workbench.fontAliasing": "auto"
+}

@@ -1,0 +1,22 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "shift+enter",
+        "command": "extension.jumpy-word",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+k",
+        "command": "git.commitAll",
+        "when": "!inDebugMode && !terminalFocus"
+    },
+    {
+        "key": "cmd+k",
+        "command": "-git.commitAll",
+        "when": "!inDebugMode && !terminalFocus"
+    },
+    {
+        "key": "ctrl+`",
+        "command": "-workbench.action.selectTheme"
+    }
+]
