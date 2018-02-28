@@ -1,5 +1,7 @@
 [original article link](https://pawelgrzybek.com/sync-vscode-settings-and-snippets-via-dotfiles-on-github/)
 
+## Be sure to first shut down VSCode
+
 ### Create simlinks
 
 ln -s /Users/[yourusername]/.dotfiles/VSCode/settings.json /Users/pawelgrzybek/Library/Application\ Support/Code/User/settings.json
