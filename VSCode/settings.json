@@ -16,5 +16,7 @@
     "editor.tabCompletion": true,
     "explorer.openEditors.visible": 0,
     "eslint.packageManager": "yarn",
-    "workbench.fontAliasing": "auto"
+    "workbench.fontAliasing": "auto",
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "material-icon-theme"
 }
